@@ -1,4 +1,4 @@
-# Conditional Gating–Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction 
+# Learning to Anticipate: A Conditional Representation Fusion Network for Pre-Stroke Prediction 
 
 ## Demo Video
 ![Demo GIF](./TrackNetV2_together3-3-good3.gif)
