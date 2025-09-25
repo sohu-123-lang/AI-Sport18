@@ -84,11 +84,8 @@ accuracy = (torch.norm(predictions - targets, dim=1) < 0.3).float().mean()
 ## 📜 Citation
 If you use this work in your research, please cite:
 ```bibtex
-@article{confu2025,
-  title={A Conditional Gating–Based Cross-Fusion Network for Pre-Stroke Drop Point Prediction in Badminton},
-  author={Anonymous},
-  journal={AAAI 2026},
-  year={2025}
+@article{confu202x,
+  year={202x}
 }
 ```
 
